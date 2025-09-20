@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**koosbalazsbence/koosbalazsbence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Balázs**, a **Computer Engineering student** passionate about coding, problem-solving, and building creative software solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** `Javascript`, `Typescript`, `Python`, `C`  
+- **Web:** `React`, `Node.js`, `HTML`, `CSS`  
+- **Tools & Platforms:** `Git`, `Docker`, `Linux`  
+- **Databases:** `MySQL`, `MongoDB`, `SQLite`, `PostgeSQL`
+
+---
+
+## 🌟 Notable Projects
+
+- **[Planitapp](https://github.com/janoscsordas/planit-vizsgaremek-fullstack)** – Planitapp will help your team to organize things and make their work more efficient.  
+- **[kooslaser](https://kooslaser.hu)** – Kooslaser.hu - Laser and sound project
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [koosbalazsbence@gmail.com](mailto:koosbalazsbence@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/koosbalazsbence](https://linkedin.com/in/koosbalazsbence)  
+- **Twitter:** [@koosbalazsbence](https://twitter.com/koosbalazsbence)  
+- **Instagram:** [@koosbalazsbence](https://instagram.com/koosbalazsbence)  
+
+> Always open to collaborations, coding discussions, and exciting projects! 🚀
