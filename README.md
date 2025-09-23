@@ -6,7 +6,7 @@ I’m **Balázs**, currently pursuing a degree in **Computer Science Engineering
 
 ## 🛠 Tech Stack
 
-- **Languages:** `Javascript`, `Typescipt`, `Python`, `C`, `C#`, `PHP`
+- **Languages:** `Javascript`, `Typescript`, `Python`, `C`, `C#`, `PHP`
 - **Web:** `React`, `Next.js`, `HTML`, `CSS`, `bun`
 - **Tools & Platforms:** `Git`, `Docker`, `Linux`, `MacOS`
 - **Databases:** `MySQL`, `MongoDB`, `SQLite`, `PostgeSQL`, `Supabase`
