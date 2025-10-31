@@ -29,7 +29,7 @@ My goal is to create **clean, maintainable, and high-performance applications**,
 
 ## 🌟 Notable Projects
 
-### 🗂️ [planitapp.hu](https://github.com/janoscsordas/planit-vizsgaremek-fullstack)
+### 🗂️ [planitapp.hu](https://planitapp.hu)
 **Full-stack team management solution** — built to help teams organize their workflow, assign tasks, and boost efficiency.  
 - **Technologies:** `Next.js`, `React`, `TypeScript`, `PostgreSQL`
 - **Focus:** Collaboration, task management, structured UI/UX
