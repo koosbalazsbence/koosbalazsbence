@@ -30,7 +30,7 @@ My goal is to create **clean, maintainable, and high-performance applications**,
 ## 🌟 Notable Projects
 
 ### 🗂️ [planitapp.hu](https://planitapp.hu)
-**Full-stack team management solution** — built to help teams organize their workflow, assign tasks, and boost efficiency.  
+**Full-stack team management solution** — built to help teams organize their workflow, assign tasks, and boost efficiency.
 - **Technologies:** `Next.js`, `React`, `TypeScript`, `PostgreSQL`
 - **Focus:** Collaboration, task management, structured UI/UX
 
@@ -38,8 +38,8 @@ My goal is to create **clean, maintainable, and high-performance applications**,
 
 ### 🔊 [kooslaser.hu](https://kooslaser.hu)
 **Creative technology project** combining **laser and sound engineering** to deliver immersive visual-audio experiences.  
-- **Role:** Full-stack web developer  
-- **Goal:** Build a clean, fast, and visually striking professional web presence.
+- **Role:** Full-stack web developer
+- **Goal:** Build a clean, fast, and visually striking professional web presence
 
 ---
 
